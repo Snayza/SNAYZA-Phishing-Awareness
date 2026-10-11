@@ -28,7 +28,7 @@ No third-party Python packages are required.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/SNAYZA-Phishing-Awareness.git
+git clone https://github.com/Snayza/SNAYZA-Phishing-Awareness.git
 cd SNAYZA-Phishing-Awareness
 python main.py
 ```
