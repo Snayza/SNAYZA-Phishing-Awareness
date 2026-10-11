@@ -23,7 +23,8 @@ A Python terminal application for phishing awareness, defensive URL analysis, an
   
 ## Screenshot
 
-![SNAYZA Phishing Awareness](assets/Screenshot 2026-10-11 215050.png)
+![SNAYZA Phishing Awareness](SNAYZA-Phishing-Awareness
+/Screenshot 2026-10-11 215050.png)
 
 
 ## Requirements
