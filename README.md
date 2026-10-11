@@ -5,6 +5,9 @@ A Python terminal application for phishing awareness, defensive URL analysis, an
 **Author:** Snayza  
 **Version:** 1.0.0
 
+![image alt](https://github.com/Snayza/SNAYZA-Phishing-Awareness/blob/b363615a34bc29e10be6efd39641e25b69463621/screenshot.png)
+
+
 ## Features
 
 - Static URL security analysis with heuristic risk scoring (0–100)
