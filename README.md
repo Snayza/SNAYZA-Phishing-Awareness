@@ -20,13 +20,6 @@ A Python terminal application for phishing awareness, defensive URL analysis, an
 
   
 
-  
-## Screenshot
-
-![SNAYZA Phishing Awareness](SNAYZA-Phishing-Awareness
-/Screenshot 2026-10-11 215050.png)
-
-
 ## Requirements
 
 - Python 3.10 or newer
