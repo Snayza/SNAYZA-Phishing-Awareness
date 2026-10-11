@@ -17,11 +17,13 @@ A Python terminal application for phishing awareness, defensive URL analysis, an
 - Python standard library only
 - No DNS lookups or network requests during analysis
 
+
   
+
   
 ## Screenshot
 
-![SNAYZA Phishing Awareness](Screenshot 2026-10-11 215050.png)
+![SNAYZA Phishing Awareness](assets/Screenshot 2026-10-11 215050.png)
 
 
 ## Requirements
