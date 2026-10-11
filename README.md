@@ -46,9 +46,6 @@ If needed, use `python3 main.py` on Linux/macOS or `py main.py` on Windows.
 | 5 | View saved URL reports |
 | 0 | Exit |
 
-## Reports
-
-URL reports and quiz history are saved locally in `reports/` as JSON files. This folder is excluded from version control by `.gitignore`.
 
 ## How the Analyzer Works
 
